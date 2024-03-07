@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="area-paleantologia" size="10.000000 4.259635" />
+    <ImageTarget name="area-vida-silvestre" size="10.000000 8.083642" />
+    <ImageTarget name="peresoso-ar" size="10.000000 8.813736" />
+    <ImageTarget name="mastodonte-ar" size="10.000000 5.056180" />
+  </Tracking>
+</QCARConfig>

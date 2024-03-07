@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.4">
+        <ModelTarget name="mastodonte-detalle" targetId="dae4ced9866b44cf98ab0b888a399a84" version="13.0" toolVersion="v6.2.4" bbox="-0.009679 -0.000014 -0.000014 0.000014 0.015018 0.029630" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="mastodonte-detalle" assemblyId="c9e01e8a99fd400ebf96f97a42693ad5">
+        <Part name="mastodonte-detalle" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

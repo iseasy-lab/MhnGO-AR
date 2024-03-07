@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.4">
+        <ModelTarget name="peresoso-detalle" targetId="e2d1785ed96a47f899af1acdfb883369" version="13.0" toolVersion="v6.2.4" bbox="-0.011465 -0.000008 -0.000523 0.000008 0.015007 0.016550" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="peresoso-detalle" assemblyId="456273a3bdc24c48bad6ac1201a55ca0">
+        <Part name="peresoso-detalle" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

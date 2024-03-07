@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550181900371",
+    "firebase_url": "https://museum3d-6f8fd-default-rtdb.firebaseio.com",
+    "project_id": "museum3d-6f8fd",
+    "storage_bucket": "museum3d-6f8fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550181900371:android:a7c5de3980972b0d53b6a6",
+        "android_client_info": {
+          "package_name": "com.Tesis.Museum3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550181900371-gpii2bis5dsdc6rk6h66bl5qb6d5qlvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Tesis.Museum3D",
+            "certificate_hash": "8433afbbdde62731b18f2ae3ecd3be36b0aa3d92"
+          }
+        },
+        {
+          "client_id": "550181900371-gl1sn55givi4prkslbdtu2si91a44vib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5NPqIP2vijf-CIOntwE5dvnJRjKX1b9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550181900371-gl1sn55givi4prkslbdtu2si91a44vib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
